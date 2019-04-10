@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context="com.subashpoudel.bookreader.pdf.PdfDetailActivity"
+    >
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      >
+    <TextView
+        android:id="@+id/label_book_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:padding="8dp"
+        android:text="Book Name:"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:id="@+id/label_book"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/label_book_name"
+        android:padding="8dp"
+        android:text="Book Name"
+        />
+    <TextView
+        android:id="@+id/label_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/label_book_name"
+        android:padding="8dp"
+        android:text="Author:"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:id="@+id/label_author_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/label_book_name"
+        android:layout_toRightOf="@+id/label_author"
+        android:padding="8dp"
+        android:text="author name"
+        />
+
+
+  </RelativeLayout>
+  <ListView
+      android:id="@+id/list_view_pdf_detail"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      />
+
+</LinearLayout>

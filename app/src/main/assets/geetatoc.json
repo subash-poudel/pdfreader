@@ -1,0 +1,116 @@
+{
+  "book": "Bhagwat Geeta",
+  "tableOfContents": [{
+    "title": "Cover Page",
+    "visiblePageNumber": "-1",
+    "actualPageNumber": "0"
+  }, {
+    "title": "Title Page",
+    "visiblePageNumber": "-1",
+    "actualPageNumber": "2"
+  }, {
+    "title": "Introduction",
+    "visiblePageNumber": "-1",
+    "actualPageNumber": "13"
+  }, {
+    "title": "Dharma Sidhanta",
+    "visiblePageNumber": "-1",
+    "actualPageNumber": "15"
+  }, {
+    "title": "Tathya opurna sandesh",
+    "visiblePageNumber": "-1",
+    "actualPageNumber": "21"
+  }, {
+    "title": "Anukramina",
+    "visiblePageNumber": "-1",
+    "actualPageNumber": "23"
+  }, {
+    "title": "Prakkathan",
+    "visiblePageNumber": "1",
+    "actualPageNumber": "24"
+  }, {
+    "title": "Pratham Aadhaya",
+    "visiblePageNumber": "15",
+    "actualPageNumber": "38"
+  }, {
+    "title": "Doshro Aadhaya",
+    "visiblePageNumber": "41",
+    "actualPageNumber": "64"
+  }, {
+    "title": "Teshro Aadhaya",
+    "visiblePageNumber": "81",
+    "actualPageNumber": "104"
+  }, {
+    "title": "Chauthyo Aadhaya",
+    "visiblePageNumber": "109",
+    "actualPageNumber": "132"
+  }, {
+    "title": "Pachayou Aadhaya",
+    "visiblePageNumber": "143",
+    "actualPageNumber": "165"
+  }, {
+    "title": "Chaithau Aadhaya",
+    "visiblePageNumber": "157",
+    "actualPageNumber": "179"
+  }, {
+    "title": "Sathau Aadhaya",
+    "visiblePageNumber": "177",
+    "actualPageNumber": "199"
+  }, {
+    "title": "Aathau Aadhaya",
+    "visiblePageNumber": "191",
+    "actualPageNumber": "213"
+  }, {
+    "title": "Nayou Aadhaya  ",
+    "visiblePageNumber": "211",
+    "actualPageNumber": "233"
+  }, {
+    "title": "Dashou Aadhaya",
+    "visiblePageNumber": "231",
+    "actualPageNumber": "253"
+  }, {
+    "title": "Eagharau Aadhaya",
+    "visiblePageNumber": "249",
+    "actualPageNumber": "271"
+  }, {
+    "title": "Barahau Aadhaya",
+    "visiblePageNumber": "275",
+    "actualPageNumber": "298"
+  }, {
+    "title": "Teharou Aadhaya",
+    "visiblePageNumber": "285",
+    "actualPageNumber": "308"
+  }, {
+    "title": "Chaudhou Aadhaya",
+    "visiblePageNumber": "299",
+    "actualPageNumber": "322"
+  }, {
+    "title": "Pandhrau Aadhaya",
+    "visiblePageNumber": "311",
+    "actualPageNumber": "334"
+  }, {
+    "title": "Shworahou Aadhaya",
+    "visiblePageNumber": "323",
+    "actualPageNumber": "346"
+  }, {
+    "title": "Sathraou Aadhaya",
+    "visiblePageNumber": "333",
+    "actualPageNumber": "356"
+  }, {
+    "title": "Aatharou Aadhaya",
+    "visiblePageNumber": "347",
+    "actualPageNumber": "370"
+  }, {
+    "title": "Aapsam",
+    "visiblePageNumber": "379",
+    "actualPageNumber": "402"
+  }, {
+    "title": "Niwedan",
+    "visiblePageNumber": "405",
+    "actualPageNumber": "428"
+  }, {
+    "title": "Purwa Bhumika",
+    "visiblePageNumber": "406",
+    "actualPageNumber": "429"
+  }]
+}
